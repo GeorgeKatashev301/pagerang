@@ -2,8 +2,8 @@
 //  CustomTableViewCell.swift
 //  PageRankiOS
 //
-//  Created by Артур Сагидулин on 30.03.17.
-//  Copyright © 2017 Артур Сагидулин. All rights reserved.
+//  Created by George Katashev on 5.04.17.
+//  Copyright © 2017 George Katashev. All rights reserved.
 //
 
 import UIKit
