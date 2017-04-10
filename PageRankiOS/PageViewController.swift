@@ -2,8 +2,8 @@
 //  PageViewController.swift
 //  PageRankiOS
 //
-//  Created by Victor Bogatyrev on 02.04.17.
-//  Copyright © 2017 Victor Bogatyrev. All rights reserved.
+//  Created by George Katashev on 5.04.17.
+//  Copyright © 2017 George Katashev. All rights reserved.
 //
 
 import UIKit
