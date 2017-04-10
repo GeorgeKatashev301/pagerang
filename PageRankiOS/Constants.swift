@@ -2,8 +2,8 @@
 //  Constants.swift
 //  PageRankiOS
 //
-//  Created by Victor Bogatyrev on 29.03.17.
-//  Copyright © 2017 Victor Bogatyrev. All rights reserved.
+//  Created by George Katashev on 5.04.17.
+//  Copyright © 2017 George Katashev. All rights reserved.
 //
 
 import Foundation
